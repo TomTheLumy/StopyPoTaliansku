@@ -8,6 +8,14 @@ body{
 
 }
 
+img{
+    border:20px groove #330000;
+}
+
+footer{
+    text-align: center;
+}
+
 .main{
      text-align: center;
      color:white;
